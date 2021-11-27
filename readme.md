@@ -1,5 +1,5 @@
 # What's this?
-This is a one player gomoku game.
+This is a one player gomoku game. (Another player is computer.)
 
 # Requirements
 These software should be installed before the system deployment.
@@ -16,6 +16,12 @@ Compile this game by Processing IDE or get compiled binary files from another co
 * User: Click the left button of mouse to put one black piece.
 * Computer: computer will put one white piece automatically.
 * The game is over if one of the user put at least five pieces in continuous straight line first.
+
+# Snapshots
+
+![Snapshot 1](Snapshots/1.png)
+![Snapshot 2](Snapshots/2.png)
+![Snapshot 3](Snapshots/3.png)
 
 # Copyright
 Download the sources and enjoy it! This software is able to be used for commercial.
